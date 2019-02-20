@@ -1,0 +1,1 @@
+Przed Wami projekt mojej strony internetowej opartej przede wszystkim na Javascripcie.
