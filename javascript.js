@@ -1,6 +1,6 @@
 function omnie()
 {
-	document.getElementById("content").innerHTML = "<p>W wieku 27 lat zacząłem intersować się tworzeniem stron internetowych.Przez ten rok nauczyłem się pracować z HTML5, CSS3, JavaScript oraz dodatkowo PHP. Obecnie doskonalę język JavaScript.</p><p>Szukam pierwszej pracy jako Junior Front-End Developer</p>";
+	document.getElementById("content").innerHTML = "<p>Witam! Nazywam się Michał Sadło. W wieku 27 lat zacząłem intersować się tworzeniem stron internetowych.Przez ten rok nauczyłem się pracować z HTML5, CSS3, JavaScript oraz dodatkowo PHP. Obecnie doskonalę język JavaScript.</p><p>Szukam pierwszej pracy jako Junior Front-End Developer</p>";
 }
 function portfolio()
 {
